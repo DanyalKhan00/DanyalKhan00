@@ -11,7 +11,9 @@ Email Me 👉 ✉️ officerdanyal14@email.com For Collaboration/Project or Anyt
 💬 Ask me about: Collaboration, Tech Support
 
 📫 How to reach me: Enter your email here
+
 😄 Pronouns: Danii
+
 ⚡ Fun fact: I Love Tech and Tech Love Me
 
 
