@@ -24,7 +24,7 @@ Programming Languages: C++ and Python<br>Web Development: HTML<br>Digital Market
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]
+[![Instagram][(https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ddiary820?utm_source=qr&igsh=MXQ2NGFiamVmZGFsZg==)]
 
 <!-- Snake Game Repo View -->
 
