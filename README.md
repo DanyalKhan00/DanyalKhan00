@@ -1,14 +1,14 @@
 💫 Hi 👋, I'm Danyal Khan
 
-A Student of BS Computer Science Passionate ||Coding ||Devolpment || Agentic Ai || Digital Marekting 
+A Student of BS Computer Science Passionate ||Coding ||Research ||  Ai Research Assiatant At DIP || 
 
 Email Me 👉 ✉️ officerdanyal14@email.com For Collaboration/Project or Anything Else. 😊😊
 
 🔭 I’m currently  : Studying BS at Islamia College Peshawar
 
-🌱 I’m currently learning: Web Devolpment|| Agentic Ai|| Digital Marketing
+🌱 I’m currently learning: Digital Image processing|| Ai|| Agentic Ai ||Library
 
-💬 Ask me about: Collaboration, Tech Support
+💬 Ask me about: 
 
 📫 How to reach me: Enter your email here
 
@@ -18,7 +18,7 @@ Email Me 👉 ✉️ officerdanyal14@email.com For Collaboration/Project or Anyt
 
 
 # 💫 About Me:
-Programming Languages: C++ and Python<br>Web Development: HTML<br>Digital Marketing Fundamentals<br>Strategic Planning and Strategy Development<br>Effective Communication Skills<br>Problem Solving and Analytical Thinking<br>Teamwork and Collaboration
+Programming Languages: C++ and Python<br>Web Development: HTML<br>Strategic Planning and Strategy Development<br>Effective Communication Skills<br>Problem Solving and Analytical Thinking<br>Teamwork and Collaboration
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
