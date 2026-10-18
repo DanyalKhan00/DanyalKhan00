@@ -17,7 +17,7 @@ Email Me 👉 ✉️ officerdanyal14@email.com For Collaboration/Project or Anyt
 ⚡ Fun fact: I Love Tech and Tech Love Me
 
 
-# 💫 About Me:
+# 💫 About Me : 
 Programming Languages: C++ and Python<br>Web Development: HTML<br>Strategic Planning and Strategy Development<br>Effective Communication Skills<br>Problem Solving and Analytical Thinking<br>Teamwork and Collaboration
 
 ## 🏆 GitHub Trophies
