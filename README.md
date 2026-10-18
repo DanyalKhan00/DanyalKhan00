@@ -6,7 +6,7 @@ Email Me 👉 ✉️ officerdanyal14@email.com For Collaboration/Project or Anyt
 
 🔭 I’m currently  : Studying BS at Islamia College Peshawar
 
-🌱 I’m currently learning: Digital Image processing|| Ai|| Agentic Ai ||Library
+🌱 I’m currently learning: || Python || Library || Digital Image processing || Machine Learning || Deep Learning || Computer Visions || 
 
 💬 Ask me about: 
 
